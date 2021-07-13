@@ -1,2 +1,2 @@
 # Python-computer
-简单计算机
+Python简单计算机GUI
